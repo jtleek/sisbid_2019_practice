@@ -2,13 +2,14 @@
 
 Here I'm going to describe what is going on in my project
 
-This is an edit. 
+This is my edit. 
 
 
-**This is in bold**
+_This isn't in bold_
 
-One more edit
+No more edits
 
 Yet another edit. 
 
 Let's mess this up. 
+
